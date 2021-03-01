@@ -1,11 +1,11 @@
-Is life nothing more than a tree ?
 Pensez-vous que l'IA peut dépasser l'humain ? 
 Pensez-vous que les IA peuvent devenir humaines ? 
-Penchez-vous vers un futur d'apocalypse ou d'entraide entre les IA et les humains ? 
+Penchez-vous vers un futur apocalyptique ou d'entraide entre les IA et les humains ? 
 Les codes de beauté dans la société sont-ils justifiés ? 
+Les LGBT et la société
 Les LGBT sont-ils bien intégrés dans la société ? 
 Le combat des LGBT est-il légitime ? 
-Pensez-vous qu'ils existent encore des inégalités pour les LGBT ? 
+Pensez-vous qu'il existe encore des inégalités pour les LGBT ? 
 L'astrologie est-elle une science ? 
 L'influence des théories du complot 
 Même en n'y croyant pas, les théories du complot influencent t-elles notre façon de voir le monde ? 
@@ -13,7 +13,7 @@ Croyez-vous en l'Apocalypse ?
 Les inégalités hommes-femmes existent-elles toujours ? 
 La sexualité devrait-elle être plus ou moins enseignée à l'école ? 
 Qu'est ce qu'est, d'après vous, l'influence du patriarcat ? 
-Les réseaux sociaux sont-ils bénefiques ou nocifs ? 
+Les réseaux sociaux sont-ils bénéfiques ou nocifs ? 
 Y-a-t-il une limite au progrès ? 
 La vie est-elle une question de choix ? 
 Croyez-vous en le destin ? 
@@ -22,30 +22,30 @@ Croyez-vous en une puissance supérieure ?
 Les médias ont-ils une influence ? 
 Quel est le meilleur moyen de s'informer ? 
 Les aliens ont-ils déjà visité la terre ? 
-Faut il favoriser l'inné ou développer l'acquis ? 
+Faut-il favoriser l'inné ou développer l'acquis ? 
 La violence parentale est-elle bénéfique ? 
-Les dons existe-t-ils ? 
+Les dons existent-t-ils ? 
 Qu'est ce que l'égalité ?
 Qu'est ce que la liberté ? 
 Quel choix faire entre la liberté ou l'égalité ? 
-Qu'est ce que le capitalisme ? Est-il adapté a notre société actuelle et future ? 
+Qu'est ce que le capitalisme ? Est-il adapté à notre société actuelle et future ? 
 Existe-t-il une autre voie que le capitalisme ? 
 Est-il légitime de s'approprier des choses ? 
 La jalousie est-elle le poison d'une relation ? 
 Y-a-t-il une différence entre être possessif et jaloux ? 
-A-t-on le droit de contrôler la vie de son partenaire ? 
+A-t'on le droit de contrôler la vie de son partenaire ? 
 A-t-on des droits sur les autres ? 
 La majorité a-t-elle toujours raison ? 
 Quelles sont les limites du laxisme ? 
 L'art est-il indispensable ? 
 L'animal est-il au service de l'homme ? 
-Quels traits de caractère la société n'accepte t-elle pas ?
+Quels traits de caractère la société n'accepte-t-elle pas ?
 Sur quels traits de caractère la société est-elle hypocrite ? 
 Une guerre peut-elle être utile ? 
 Jusqu'où la collaboration de 1940 est-elle moralement acceptable ? 
 Un régime autoritaire serait-il accepté de nos jours ? 
-Les restrictions sanitaires actuelle portent-elles atteinte à nos libertés ? 
-Jusqu'où iriez vous pour + personne (parents, amis, frère...) ? 
+Les restrictions sanitaires actuelles portent-elles atteinte à nos libertés ? 
+Jusqu'où iriez-vous pour + personne (parents, amis, frère...) ? 
 Le viol peut-il être justifié ? 
 Le crime peut-il être justifié ? 
 La peine de mort doit-elle être rétablie ? 
@@ -53,19 +53,47 @@ Vaut-il mieux un coupable en liberté ou un innocent en prison ?
 La justice est-elle juste ? 
 Qu'est ce qu'une bonne personne ? 
 Qu'est ce qu'une mauvaise personne ?
-À quel moment une personne de bien t-elle mauvaise ? 
+À quel moment une personne de bien est-elle mauvaise ? 
 Une personne mauvaise pour vous est-elle forcément mauvaise pour les autres ? 
 Le vol pour manger est-il légitime ? 
-A-t-on besoin d'aimer pour vivre ? 
+A-t'on besoin d'aimer pour vivre ? 
 Faut-il se laisser guider par nos émotions ? 
 Que faut-il choisir entre la raison, l'instinct, et les sentiments ? 
 Jusqu'où va la légitime défense ? 
-Est-ce que être instruit veux dire être intelligent ? 
+Est-ce qu'être instruit veut dire être intelligent ? 
 Les lobbys nous manipulent-ils ? 
-Faut-il chercher pour trouver le bonheur ? 
+Faut-il chercher le bonheur pour le trouver ? 
 Le voyage est-il une source de connaissance ? 
 À force de chercher le bonheur dans le futur, ne le perd-on pas dans le présent ? 
 Faut-il obligatoirement garder des liens avec sa famille ? 
 Faut-il obligatoirement respecter sa famille ? 
-Les amis peuvent-ils devenir plus important que la famille ? 
+Les amis peuvent-ils devenir plus importants que la famille ? 
 Peut-on se couper de ses émotions ? 
+Les migrants sont-ils bénéfiques ou nocifs pour notre pays ? 
+Le Frexit serait-il bénéfique pour la France ? 
+Le voyage vaut il le coup (écologiquement) ? 
+A t'on le droit de choisir les gens à envoyer sur d'autres planètes ? 
+A t'on le droit de laisser mourir une majorité de la population pour laisser survivre l'humanité ? 
+Est-on en train de continuer la Bible par nos actions quotidiennes ? 
+Le vue ou l'ouïe ? 
+Quel sens perdre ? 
+Quel sens garder ? 
+Pourriez-vous, du jour au lendemain, partir dans un pays lointain et ne jamais revenir ? 
+Combien de temps pouvez-vous passer sans votre téléphone ? 
+La société impose-t-elle ou suggère-t-elle les normes implicites (hygiène, beauté, savoir vivre) ? 
+La loi est-elle la seule à créer des contraintes ? Devons-nous donner une définition à tout ? 
+L'homme est-il un loup pour l'homme ? 
+Peut-on vivre sans nature ? 
+Quelles habitudes êtes-vous prêt à sacrifier pour le bien de la planète ? 
+Pourquoi l'humain rejoint-il les sectes ? 
+A partir de quel moment une religion devient- elle une secte ? 
+Peut-on sacrifier les jeunes pour préserver les personnes âgées ? 
+Peut-on sacrifier les personnes âgées pour préserver les jeunes ? 
+Quelle est la limite de l'humour ? 
+La censure peut-elle être bénéfique ? 
+Qu'est ce qu'un métier idéal ? 
+L'amour est-il une addiction ? 
+Le regard des autres est- il une addiction ? 
+Peut-on mettre sa vie en danger pour se sentir vivant ? 
+L'effet de groupe a-t-il une influence sur tes émotions / décisions ? 
+Être silencieux est-ce devenir complice ? 
