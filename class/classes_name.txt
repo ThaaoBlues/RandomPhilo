@@ -1,3 +1,6 @@
 beliefs
 education
 human_behaviour
+human_relations
+humans_and_the_others
+minorities
