@@ -7,3 +7,5 @@ minorities
 moral
 philosophy
 politics
+society
+unclassed
